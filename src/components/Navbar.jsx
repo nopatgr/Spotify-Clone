@@ -1,6 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import { assets } from "../assets/assets";
 
+
 function Navbar() {
 
   const navigate = useNavigate()
